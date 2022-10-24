@@ -1,0 +1,3 @@
+node-modules
+docker/certs/*
+docker/db_data/*
